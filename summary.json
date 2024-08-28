@@ -1,0 +1,44 @@
+[
+  {
+    "name": "0__100",
+    "brief": "Show numbers between 0 and 100 as a progress bar",
+    "description": "Show numbers between 0 and 100 as a progress bar.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  },
+  {
+    "name": "10_123",
+    "brief": "Add spaces between each 3 digits",
+    "description": "Add spaces between each 3 digits.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  },
+  {
+    "name": "heatmap",
+    "brief": "Colorize cells in a column",
+    "description": "Colorize cells in a column according their values.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  },
+  {
+    "name": "lowercase",
+    "brief": "Convert all uppercase letters in a string to lowercase",
+    "description": "Convert all uppercase letters in a string to lowercase.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  },
+  {
+    "name": "unixtime",
+    "brief": "Convert UNIX-time to a date-time string",
+    "description": "Convert UNIX-time to a date-time string.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  },
+  {
+    "name": "uppercase",
+    "brief": "Convert all lowercase letters in a string to uppercase",
+    "description": "Convert all lowercase letters in a string to uppercase.",
+    "version": "1.0.0",
+    "author": "little-brother"
+  }
+]
