@@ -1,0 +1,7 @@
+{
+	"name": "unixtime",
+	"brief": "Convert UNIX-time to a date-time string",
+	"description": "Convert UNIX-time to a date-time string.",
+	"version": "1.0.0",
+	"author": "little-brother"
+}

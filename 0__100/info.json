@@ -1,0 +1,7 @@
+{
+	"name": "0__100",
+	"brief": "Show numbers between 0 and 100 as a progress bar",
+	"description": "Show numbers between 0 and 100 as a progress bar.",
+	"version": "1.0.0",
+	"author": "little-brother"
+}

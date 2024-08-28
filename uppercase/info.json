@@ -1,0 +1,7 @@
+{
+	"name": "uppercase",
+	"brief": "Convert all lowercase letters in a string to uppercase",
+	"description": "Convert all lowercase letters in a string to uppercase.",
+	"version": "1.0.0",
+	"author": "little-brother"
+}

@@ -1,0 +1,7 @@
+{
+	"name": "heatmap",
+	"brief": "Colorize cells in a column",
+	"description": "Colorize cells in a column according their values.",
+	"version": "1.0.0",
+	"author": "little-brother"
+}
